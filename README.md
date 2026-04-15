@@ -1,0 +1,2 @@
+# SSDL---A-Structured-Review-of-Principles-Practices-and-Lifecycle-Security-Controls
+Secure Software Development Lifecycle — a structured review of principles, practices, and lifecycle security           ▎ controls: security requirements, threat modeling, secure design/coding, SAST/DAST/SCA/fuzzing, hardened deployment,    ▎ supply-chain integrity, and secure maintenance. MSc thesis, Computer Security (LM-66)
